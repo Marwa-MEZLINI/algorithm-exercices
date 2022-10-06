@@ -1,0 +1,13 @@
+﻿begin
+
+OUTPUT 'Enter your surname'
+
+surname ← USERINPUT
+
+OUTPUT 'Enter your first name'
+
+firstname ← USERINPUT
+
+OUTPUT surname+firstname
+
+end
