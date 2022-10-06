@@ -1,14 +1,13 @@
 ﻿OUTPUT 'Enter your name'
 name ← USERINPUT
-OUTPUT name
+
 
 OUTPUT 'Enter your age'
 
 age ← USERINPUT
 
-OUTPUT age
+
 
 OUTPUT 'Enter your favourite color'
 
 color ← USERINPUT
-OUTPUT color
