@@ -1,0 +1,17 @@
+﻿output 'enter traffic light color'
+
+color ← userinput
+
+
+
+If color = 'green'
+ 
+    output 'Go'
+
+    ElseIf color ='amber'
+
+        output 'Get ready'
+
+        Else
+ 
+            output 'Stop'
