@@ -1,0 +1,17 @@
+﻿output 'enter number1'
+
+number1 ← userinput
+
+output 'enter number2'
+
+number2 ← userinput
+
+
+
+If number1>number2
+
+    output number1
+
+    Else
+
+        output number2
