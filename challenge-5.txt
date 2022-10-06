@@ -1,5 +1,4 @@
-﻿begin
-
+﻿
 OUTPUT 'Enter number1'
 
 number1 ← USERINPUT
@@ -10,4 +9,3 @@ number2 ← USERINPUT
 
 OUTPUT number1+number2
 
-end
