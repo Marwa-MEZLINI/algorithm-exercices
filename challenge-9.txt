@@ -1,0 +1,14 @@
+﻿name ← 'marwa'
+
+output 'enter your first name'
+
+firstname ← userinput
+
+
+If firstname=name
+
+    output 'You are cool.'
+
+    Else
+        
+output 'Nice to meet you.'
