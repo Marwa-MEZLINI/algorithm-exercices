@@ -1,0 +1,21 @@
+﻿output 'name one of the Olympic Values'
+
+value ← userinput
+
+
+
+If value = 'respect'
+ 
+    output 'correct'
+
+    ElseIf value ='excellence'
+
+        output 'correct'
+        
+    ElseIf value = 'friendship'
+
+            output 'correct'
+
+        Else
+ 
+            output 'incorrect'
