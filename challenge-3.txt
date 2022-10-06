@@ -1,6 +1,4 @@
-﻿begin
-
-OUTPUT 'Enter your surname'
+﻿OUTPUT 'Enter your surname'
 
 surname ← USERINPUT
 
@@ -11,4 +9,3 @@ firstname ← USERINPUT
 
 OUTPUT firstname
 
-end
