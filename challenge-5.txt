@@ -1,0 +1,13 @@
+﻿begin
+
+OUTPUT 'Enter number1'
+
+number1 ← USERINPUT
+
+OUTPUT 'Enter number2'
+
+number2 ← USERINPUT
+
+OUTPUT number1+number2
+
+end
