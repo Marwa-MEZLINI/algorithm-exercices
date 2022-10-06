@@ -1,0 +1,16 @@
+﻿output 'enter the amount of minutes'
+
+minutes ← USERINPUT
+
+minutescost ← minutes*0.10
+
+
+OUTPUT 'Enter the amount of texts'
+
+texts ← USERINPUT
+
+textscost ← texts*0.05
+
+billcost ← minutescost+textscost+10.00
+
+OUTPUT billcost
