@@ -1,13 +1,14 @@
-begin
+﻿begin
 
 OUTPUT 'Enter your surname'
 
-surname ? USERINPUT
+surname ← USERINPUT
 
+OUTPUT surname
 OUTPUT 'Enter your first name'
 
-firstname ? USERINPUT
+firstname ← USERINPUT
 
-OUTPUT surname+firstname
+OUTPUT firstname
 
 end
