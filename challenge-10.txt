@@ -1,0 +1,13 @@
+﻿output 'how many letters in the alphabet?'
+
+number ← userinput
+
+
+
+If number=26
+
+    output 'correct'
+
+    Else
+
+        output 'incorrect'
