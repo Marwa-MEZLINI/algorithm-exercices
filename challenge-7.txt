@@ -1,0 +1,11 @@
+﻿OUTPUT 'Enter the distance (in meters)'
+
+distance ← USERINPUT
+
+OUTPUT 'Enter the time in seconds'
+
+time ← USERINPUT
+
+speed ← distance/time
+
+OUTPUT speed
