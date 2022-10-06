@@ -1,8 +1,8 @@
-begin
+﻿begin
 
 OUTPUT 'Enter your first name'
 
-name ? USERINPUT
+name ← USERINPUT
 
 OUTPUT name
 
