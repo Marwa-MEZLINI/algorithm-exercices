@@ -1,0 +1,16 @@
+﻿output ('how long on average do you spend watching TV each day?')
+
+tv_time ← userinput
+
+
+If (tv_time < 2)
+    
+output ('that should be ok')
+    
+ElseIf (tv_time > 4)
+        
+output ('that is too much TV')
+        
+Else
+            
+output ('that will rot your barin')
