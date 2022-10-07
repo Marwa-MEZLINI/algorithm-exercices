@@ -1,0 +1,9 @@
+﻿For i=1 to 20
+
+   odd ← (i Mod 2)
+
+    If (odd = True)
+
+    output (i)
+
+    Endfor
