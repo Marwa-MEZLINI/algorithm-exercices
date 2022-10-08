@@ -1,0 +1,11 @@
+﻿Do
+ 
+    output ('enter a number')
+
+    number ← userinput
+
+    If (number = 7)
+
+        output ('well done')
+
+        While (number ≠ 7)
