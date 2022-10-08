@@ -1,0 +1,19 @@
+﻿output ('enter your age')
+
+age ← userinput
+
+If (age > 12 And age < 16)
+
+    output ('30% discount')
+
+    ElseIf ((age > 15)And(age < 18))
+
+        output('20% discount')
+
+        ElseIf (age > 50)
+
+            output ('40% discount')
+
+            Else
+ 
+                output ('no discount')
